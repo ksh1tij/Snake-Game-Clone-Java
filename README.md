@@ -29,9 +29,6 @@ The Snake Game clone is a classic arcade game developed using Java and Java Swin
 - Java Development Kit (JDK) version X.X or higher
 - Java Swing library
 
-## Contributing:
-We welcome contributions to the Snake Game clone project. If you have any bug fixes, enhancements, or new feature implementations, please follow the standard GitHub workflow to submit your pull requests.
-
 ## License:
 This Snake Game clone is released under the MIT License. For detailed licensing information, refer to the LICENSE file in the repository.
 
