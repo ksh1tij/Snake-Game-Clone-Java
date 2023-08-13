@@ -26,7 +26,7 @@ The Snake Game clone is a classic arcade game developed using Java and Java Swin
 - The current score and the highest score achieved will be displayed at the end of each game.
 
 ## Dependencies:
-- Java Development Kit (JDK) version X.X or higher
+- Java Development Kit (JDK)
 - Java Swing library
 
 ## License:
